@@ -1,6 +1,6 @@
 # Twin Gate Telegram Bot
 
-� **Telegram Bot for Human Identity Verification**
+� **Telegram Bot for Human Identity Verification**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-blue.svg)](https://postgresql.org/)
@@ -12,24 +12,24 @@
 - **🌐 VM IP**: 35.185.141.238
 - **🗄️ 資料庫 IP**: 35.194.208.240
 - **🤖 Bot**: [@twin3bot](https://t.me/twin3bot) - 正常運行
-- **💰 ��4估費品**: 約 $35/月
+- **💰 ��4估費品**: 約 $35/月
 
 ## 𓘱 **Telegram Bot 設定**
 
 ### Bot 基本慇息
 - **Bot 用戶名**: @twin3bot
-- **Bot Token**: `7151382731:AAGb1r6ACJE-xkMxFiW4Ml3wD1X5rKOPTkc`
-- **管理員、Chat ID**: `589541800`
+- **Bot Token**: 
+- **管理員、Chat ID**:  
 
 ### 支捴的命令
 ```
 /start  - 唕動 Bot 並显示歡迎盍面
-/verify - 進入三階段��證系統
+/verify - 進入三階段��證系統
 /help   - 显示幫助信息
 ```
 
 ### 多効言支捴
-- 🇫🇿 繁體中文�- 🇪🇸 English
+- 🇫🇿 繁體中文�- 🇪🇸 English
 
 ## ★️ **GCP 基擎設施配置**
 
@@ -69,7 +69,7 @@ TARGET_TAGS="twin-gate"
 
 ## 🚀 **快速部署**
 
-### 方法 1: 自動化。部署 (推�f�)
+### 方法 1: 自動化。部署 (推�f�)
 ``bbash
 # 在 Google Cloud Shell 中装行
 git clone https://github.com/cis2042/telegrambot.git
